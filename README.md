@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhulasikumar12&show_icons=true&locale=en" alt="dhulasikumar12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhulasikumar12&" alt="dhulasikumar12" /></p>
-(https://raw.githubusercontent.com/Dhulasikumar12/{username}/output/github-contribution-grid-snake-dark.svg)
+
